@@ -38,3 +38,4 @@ C:\Users\SinhVien\source\repos\ASP.Net_MVC_Core\ASP.Net_MVC_Core\obj\Debug\net5.
 C:\Users\SinhVien\source\repos\ASP.Net_MVC_Core\ASP.Net_MVC_Core\obj\Debug\net5.0\ASP.Net_MVC_Core.pdb
 C:\Users\SinhVien\source\repos\ASP.Net_MVC_Core\ASP.Net_MVC_Core\obj\Debug\net5.0\ASP.Net_MVC_Core.genruntimeconfig.cache
 C:\Users\SinhVien\source\repos\ASP.Net_MVC_Core\ASP.Net_MVC_Core\obj\Debug\net5.0\ASP.Net_MVC_Core.csproj.CopyComplete
+C:\Users\SinhVien\source\repos\ASP.Net_MVC_Core\ASP.Net_MVC_Core\obj\Debug\net5.0\Razor\Views\Home\diem.cshtml.g.cs
