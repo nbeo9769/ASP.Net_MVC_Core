@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ASP.Net_MVC_Core</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class=" container"
+        <div class=" row col-12 Head">
+    @Html.Partial("_Head")
+</Div>
+<div class="row col-12 Body">
+    <div class="">
+@Html.Partial("_Menu")
+        </Div>
+    <div class="right col-9">
+         @RenderBody()
+         </div>
+    <div class="row col-12">
+         @Html.Partial("_Foot")
+         </div)>
+</div>
+    </div>
+    </body>
+</html>
